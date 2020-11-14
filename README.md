@@ -1,7 +1,7 @@
 # Numeros Impares em Scheme
 <img align="right" alt="GIF" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Lambda_lc.svg/200px-Lambda_lc.svg.png" />
 
-Teste estudando ainda a linguagem.
+Teste, estudando ainda sobre a linguagem.
 
 Feito em base:
 
